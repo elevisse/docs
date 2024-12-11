@@ -15,3 +15,4 @@ Several methods are available:
 - [🐳 Running R2Devops using Docker-compose](self-managed/installations/docker-compose.md)
 - [🚀 Running R2Devops on Kubernetes using a Helm chart](self-managed/installations/kubernetes.md)
 - [⏱️ Trying R2Devops on your local computer using podman](self-managed/installations/local-podman.md)
+- [🕸 Trying R2Devops using podman](self-managed/installations/podman.md)
